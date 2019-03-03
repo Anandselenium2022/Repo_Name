@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20999" started-at="2019-03-03T12:14:19Z" finished-at="2019-03-03T12:14:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20999" started-at="2019-03-03T12:14:19Z" finished-at="2019-03-03T12:14:40Z">
+      <class name="classwork.Manual">
+        <test-method status="PASS" signature="sample()[pri:0, instance:classwork.Manual@204f30ec]" name="sample" duration-ms="20925" started-at="2019-03-03T12:14:19Z" finished-at="2019-03-03T12:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+      </class> <!-- classwork.Manual -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
